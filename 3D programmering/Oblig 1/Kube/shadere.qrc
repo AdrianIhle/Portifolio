@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/mine">
+        <file>fragmentshader.glsl</file>
+        <file>Hund2.bmp</file>
+        <file>vertexshader.glsl</file>
+    </qresource>
+</RCC>
