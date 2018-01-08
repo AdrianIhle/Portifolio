@@ -1,0 +1,17 @@
+INPUT(
+./release\ball.o
+./release\camera.o
+./release\gameobject.o
+./release\gamewidget.o
+./release\main.o
+./release\mainwindow.o
+./release\shaderprogram.o
+./release\vertex.o
+./release\player.o
+./release\sirkulaertgulv.o
+./release\krumvegg.o
+./release\collision.o
+./release\qrc_shadere.o
+./release\moc_gamewidget.o
+./release\moc_mainWindow.o
+);

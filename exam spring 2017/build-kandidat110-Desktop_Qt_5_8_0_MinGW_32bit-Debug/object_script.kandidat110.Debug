@@ -1,0 +1,17 @@
+INPUT(
+./debug\ball.o
+./debug\camera.o
+./debug\gameobject.o
+./debug\gamewidget.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\shaderprogram.o
+./debug\vertex.o
+./debug\player.o
+./debug\sirkulaertgulv.o
+./debug\krumvegg.o
+./debug\collision.o
+./debug\qrc_shadere.o
+./debug\moc_gamewidget.o
+./debug\moc_mainWindow.o
+);
