@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Arm_Right
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Expressions1
+    m_Weight: 0
+  - m_Path: Global_con
+    m_Weight: 0
+  - m_Path: Global_con/Mesh_Olive_grp
+    m_Weight: 0
+  - m_Path: Global_con/Mesh_Olive_grp/Mesh_Olive_Body
+    m_Weight: 0
+  - m_Path: Global_con/Mesh_Olive_grp/Mesh_Olive_Eye_L
+    m_Weight: 0
+  - m_Path: Global_con/Mesh_Olive_grp/Mesh_Olive_Eye_R
+    m_Weight: 0
+  - m_Path: Global_con/Mesh_Olive_grp/Mesh_Olive_Teeth
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/pelv_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/pelv_jnt/L_hip_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/pelv_jnt/L_hip_jnt/L_knee_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/pelv_jnt/L_hip_jnt/L_knee_jnt/L_ancle_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/pelv_jnt/L_hip_jnt/L_knee_jnt/L_ancle_jnt/L_foot_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/pelv_jnt/L_hip_jnt/L_knee_jnt/L_ancle_jnt/L_foot_jnt/L_toe_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/pelv_jnt/R_hip_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/pelv_jnt/R_hip_jnt/R_knee_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/pelv_jnt/R_hip_jnt/R_knee_jnt/R_ancle_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/pelv_jnt/R_hip_jnt/R_knee_jnt/R_ancle_jnt/R_foot_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/pelv_jnt/R_hip_jnt/R_knee_jnt/R_ancle_jnt/R_foot_jnt/R_toe_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt/L_litl01_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt/L_litl01_jnt/L_litl02_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt/L_litl01_jnt/L_litl02_jnt/L_litl03_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt/L_pnt01_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt/L_pnt01_jnt/L_pnt02_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt/L_pnt01_jnt/L_pnt02_jnt/L_pnt03_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt/L_ring01_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt/L_ring01_jnt/L_ring02_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt/L_ring01_jnt/L_ring02_jnt/L_ring03_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt/L_tmb01_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/L_claw_jnt/L_shldr_jnt/L_elbw_jnt/L_wrist_jnt/L_tmb01_jnt/L_tmb02_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/jaw_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/L_ear01_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/L_ear01_jnt/L_ear02_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/L_ear01_jnt/L_ear02_jnt/L_ear03_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/L_eye_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/L_eyelindUpper_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/L_eyelisLower_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/R_ear01_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/R_ear01_jnt/R_ear02_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/R_ear01_jnt/R_ear02_jnt/R_ear03_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/R_eye_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/R_eyelindUpper_jnt1
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/R_eyelisLower_jnt1
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/neck_jnt/head_jnt/tophead_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt/R_litl01_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt/R_litl01_jnt/R_litl02_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt/R_litl01_jnt/R_litl02_jnt/R_litl03_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt/R_pnt01_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt/R_pnt01_jnt/R_pnt02_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt/R_pnt01_jnt/R_pnt02_jnt/R_pnt03_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt/R_ring01_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt/R_ring01_jnt/R_ring02_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt/R_ring01_jnt/R_ring02_jnt/R_ring03_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt/R_tmb01_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/spine01_jnt/spine02_jnt/spine03_jnt/chest_jnt/R_claw_jnt/R_shldr_jnt/R_elbw_jnt/R_wrist_jnt/R_tmb01_jnt/R_tmb02_jnt
+    m_Weight: 1
+  - m_Path: Global_con/Rig_grp/center_jnt/tail_jnt01
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/tail_jnt01/tail_jnt02
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/tail_jnt01/tail_jnt02/tail_jnt03
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/tail_jnt01/tail_jnt02/tail_jnt03/tail_jnt04
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/tail_jnt01/tail_jnt02/tail_jnt03/tail_jnt04/tail_jnt05
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/tail_jnt01/tail_jnt02/tail_jnt03/tail_jnt04/tail_jnt05/tail_jnt06
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/tail_jnt01/tail_jnt02/tail_jnt03/tail_jnt04/tail_jnt05/tail_jnt06/tail_jnt07
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/tail_jnt01/tail_jnt02/tail_jnt03/tail_jnt04/tail_jnt05/tail_jnt06/tail_jnt07/tail_jnt08
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/tail_jnt01/tail_jnt02/tail_jnt03/tail_jnt04/tail_jnt05/tail_jnt06/tail_jnt07/tail_jnt08/tail_jnt09
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/tail_jnt01/tail_jnt02/tail_jnt03/tail_jnt04/tail_jnt05/tail_jnt06/tail_jnt07/tail_jnt08/tail_jnt09/tail_jnt10
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/center_jnt/tail_jnt01/tail_jnt02/tail_jnt03/tail_jnt04/tail_jnt05/tail_jnt06/tail_jnt07/tail_jnt08/tail_jnt09/tail_jnt10/tail_jnt11
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/L_inv_heel_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/L_inv_heel_jnt/L_inv_toe_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/L_inv_heel_jnt/L_inv_toe_jnt/L_inv_foot_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/L_inv_heel_jnt/L_inv_toe_jnt/L_inv_foot_jnt/L_inv_ancle_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/R_inv_heel_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/R_inv_heel_jnt/R_inv_toe_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/R_inv_heel_jnt/R_inv_toe_jnt/R_inv_foot_jnt
+    m_Weight: 0
+  - m_Path: Global_con/Rig_grp/R_inv_heel_jnt/R_inv_toe_jnt/R_inv_foot_jnt/R_inv_ancle_jnt
+    m_Weight: 0
+  - m_Path: imagePlane1
+    m_Weight: 1
